@@ -1,0 +1,22 @@
+            body{
+                background-color: antiquewhite;
+            }
+            h1{
+                color:black;
+                padding-top: 25px;
+            }
+            #green{
+                color:aqua;
+            }
+            .orange{
+                color:#4e049d;
+            }
+            img {
+                    border-radius:50%;
+                    padding-right: 20px;
+
+                 }        
+                 div{
+                   display: flex;
+                   /* justify-content: space-between; */
+                 }  
